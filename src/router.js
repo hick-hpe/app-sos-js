@@ -220,6 +220,8 @@ export default function Routes() {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "lightblue",
+    borderTopWidth: 2,
+    borderColor: '#34445B'
   },
   tabBarActiveBackgroundColor: {
     backgroundColor: "#34445B"
