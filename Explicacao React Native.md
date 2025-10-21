@@ -85,4 +85,5 @@ const styles = StyleSheet.create({
 - `React Native CLI`: Ferramenta oficial para criar projetos sem Expo, com mais controle sobre código nativo.
 
 ## Documentação
-Documentação do React Native em português: [https://github.com/tavaresgerson/reactnativedocbr](https://github.com/tavaresgerson/reactnativedocbr)
+- Documentação do React Native em português: [https://github.com/tavaresgerson/reactnativedocbr](https://github.com/tavaresgerson/reactnativedocbr)
+- Documentação oficial: [https://reactnative.dev/docs/getting-started](https://reactnative.dev/docs/getting-started)
